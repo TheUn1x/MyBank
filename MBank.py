@@ -5,7 +5,7 @@ bank_data = {
         "balance": 5000,
         "currency": "USD",
         "date_opened": "2023-01-01",
-        "owner": "John Doe"
+        "owner": "John Dof"
     },
     "987654321": {
         "balance": 10000,
